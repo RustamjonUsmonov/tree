@@ -1,0 +1,7 @@
+C:\Users\RJ_DraGoN\source\repos\ConsoleApp38\ConsoleApp38\obj\Debug\Tree.csprojAssemblyReference.cache
+C:\Users\RJ_DraGoN\source\repos\ConsoleApp38\ConsoleApp38\obj\Debug\Tree.csproj.CoreCompileInputs.cache
+C:\Users\RJ_DraGoN\source\repos\ConsoleApp38\ConsoleApp38\bin\Debug\ConsoleApp38.exe.config
+C:\Users\RJ_DraGoN\source\repos\ConsoleApp38\ConsoleApp38\bin\Debug\ConsoleApp38.exe
+C:\Users\RJ_DraGoN\source\repos\ConsoleApp38\ConsoleApp38\bin\Debug\ConsoleApp38.pdb
+C:\Users\RJ_DraGoN\source\repos\ConsoleApp38\ConsoleApp38\obj\Debug\ConsoleApp38.exe
+C:\Users\RJ_DraGoN\source\repos\ConsoleApp38\ConsoleApp38\obj\Debug\ConsoleApp38.pdb
